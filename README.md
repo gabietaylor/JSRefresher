@@ -14,3 +14,12 @@
 * Numbers — Any number, including numbers with decimals.
 * Either true or false, with no quotations.
 * Null — Can only be null. It represents the absence of value.
+
+# Math Operators
+
+#### The value logs in the console.
+
+1. Add `+`
+2. Subtract `-`
+3. Multiply `*`
+4. Divide `/`
