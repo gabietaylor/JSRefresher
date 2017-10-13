@@ -8,3 +8,5 @@ console.log(99 + 1); // add
 console.log(99 - 1); // subtract
 console.log(99 * 1); // multiply
 console.log(99 / 1); // divide
+
+console.log("boom whats up".length);
