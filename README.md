@@ -23,3 +23,13 @@
 2. Subtract `-`
 3. Multiply `*`
 4. Divide `/`
+
+# Properties
+
+#### When new data is introduced into a JavaScript program, the browser saves it as an instance of the data type. An instance is an individual case (or object) of a data type.
+
+#### JavaScript will save a new piece of data as a string instance in the computer's memory. A number is stored as an instance of the number data type.
+
+#### A string instance has additional information attached to it. Every string instance has a property called length that stores the number of characters in it. You can retrieve property information by appending the string with a period and the property name.
+
+* The program will print the number of characters in the console.
