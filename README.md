@@ -45,3 +45,13 @@
 
 1. A single line comment will comment out a single line and is denoted with two forward slashes `//` preceding a line of JavaScript code. 
 2. A multi-line comment will comment out multiple lines and is denoted with `/*` to begin the comment, and `*/` to end the comment.
+
+# Variables 
+### Refer to twoapp.js for further examples
+#### Variables are used to write code that is easy to understand and repurpose. Variables allow us to assign data to a word and use the word to reference the data. 
+
+# `const`
+#### Short for constant, is a JavaScript keyword that creates a new variable with a value that cannot change.
+
+# `let`
+#### 
