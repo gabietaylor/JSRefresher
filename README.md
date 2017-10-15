@@ -50,8 +50,5 @@
 ### Refer to twoapp.js for further examples
 #### Variables are used to write code that is easy to understand and repurpose. Variables allow us to assign data to a word and use the word to reference the data. 
 
-# `const`
-#### Short for constant, is a JavaScript keyword that creates a new variable with a value that cannot change.
-
-# `let`
-#### 
+# `const` and `let`
+#### Short for constant, is a JavaScript keyword that creates a new variable with a value that cannot change. Constant variables, as their name implies, are constant — you cannot assign them a different value. `let` variables can be reassigned.
