@@ -40,3 +40,9 @@
 
 * `toUpperCase()` -  method returns a string in all capital letters
 * `.startsWith()` - will return a boolean of `true` or `false` depending on value
+
+# Libraries
+
+#### Instance methods, by definition, require that you create an instance before you can use them. What if you want to call a method without an instance? That's where JavaScript libraries come in. Libraries contain methods that you can call without creating an instance.
+
+* One such collection contains mathematical methods, aptly named the `Math` library.
