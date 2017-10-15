@@ -10,3 +10,8 @@ console.log(99 * 1); // multiply
 console.log(99 / 1); // divide
 
 console.log("boom whats up".length);
+
+console.log('namaste'.toUpperCase());
+console.log('    Remove whitespace   '.trim());
+console.log('boolean'.startsWith('g'));
+console.log('boolean'.endsWith('n'));
