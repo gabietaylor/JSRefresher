@@ -33,3 +33,10 @@
 #### A string instance has additional information attached to it. Every string instance has a property called length that stores the number of characters in it. You can retrieve property information by appending the string with a period and the property name.
 
 * The program will print the number of characters in the console.
+
+# Built-In Methods
+
+#### Built-in methods are called by appending an instance with a period, the name of the method, and opening (`(`) and closing (`)`) parentheses.
+
+* `toUpperCase()` -  method returns a string in all capital letters
+* `.startsWith()` - will return a boolean of `true` or `false` depending on value
