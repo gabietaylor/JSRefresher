@@ -28,3 +28,7 @@ console.log(two);
 let three = 3;
 three--
 console.log(three);
+
+// string int
+let favoriteAnimal = 'dog';
+console.log('My favorite animal:' + favoriteAnimal);
