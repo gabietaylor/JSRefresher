@@ -15,3 +15,16 @@ console.log(change);
 // anything not given a = value
 let undefined;
 console.log(undefined);
+
+// math ops
+let one = 15;
+one += 2
+console.log(one);
+
+let two = 20;
+two *= 5
+console.log(two);
+
+let three = 3;
+three--
+console.log(three);
