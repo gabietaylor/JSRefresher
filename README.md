@@ -61,3 +61,8 @@
 
 1. The first three operators (`+=`, `-=`, and `*=`) perform the math operation of the first operator (`+`, `-`, or `*`) using the number on the right, then assign the new value to the variable.
 2. The last two operators are the increment (`++`) and decrement (`--`) operators. These operators are responsible for increasing and decreasing a number variable by one, respectively.
+
+# String Interpolation
+#### The JavaScript term for inserting the data saved to a variable into a string is _string interpolation_.
+
+#### The `+` operator, also the addition operator, is used to interpolate (insert) a string variable into a string.
