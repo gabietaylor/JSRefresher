@@ -66,3 +66,9 @@
 #### The JavaScript term for inserting the data saved to a variable into a string is _string interpolation_.
 
 #### The `+` operator, also the addition operator, is used to interpolate (insert) a string variable into a string.
+
+#### ES6 way 
+1. Instead of using quotes around the string, use backticks ```.
+2. Wrap your variable with `${myVariable}`, followed by a sentence. No `+`s necessary.
+
+#### ES6 string interpolation is easier. With ES6 interpolation we can insert variables directly into our text.
