@@ -55,3 +55,9 @@
 
 # Undefined
 #### _Undefined_ is the fifth and final primitive data type. JavaScript assigns the undefined data type to variables that are not assigned a value.
+
+# Math Assignment Operators
+####  JavaScript has a collection of built-in _math assignment operators_ that make it easy to calculate a new value and assign it to the same variable without writing the variable twice. 
+
+1. The first three operators (`+=`, `-=`, and `*=`) perform the math operation of the first operator (`+`, `-`, or `*`) using the number on the right, then assign the new value to the variable.
+2. The last two operators are the increment (`++`) and decrement (`--`) operators. These operators are responsible for increasing and decreasing a number variable by one, respectively.
