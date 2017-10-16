@@ -52,3 +52,6 @@
 
 # `const` and `let`
 #### Short for constant, is a JavaScript keyword that creates a new variable with a value that cannot change. Constant variables, as their name implies, are constant — you cannot assign them a different value. `let` variables can be reassigned.
+
+# Undefined
+#### _Undefined_ is the fifth and final primitive data type. JavaScript assigns the undefined data type to variables that are not assigned a value.
