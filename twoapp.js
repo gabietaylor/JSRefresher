@@ -32,3 +32,8 @@ console.log(three);
 // string int
 let favoriteAnimal = 'dog';
 console.log('My favorite animal:' + favoriteAnimal);
+
+// ES6
+let myName = 'Gabie';
+let myCity = 'Titusville';
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`)
